@@ -34,3 +34,14 @@ cargo build
 cargo run
 cargo check
 ```
+
+## Programming a guess game
+
+[docs](https://doc.rust-lang.org/stable/book/ch02-00-guessing-game-tutorial.html)
+
+```sh
+cargo new guessing_game
+cd guessing_game
+cargo add rand
+cargo build
+```

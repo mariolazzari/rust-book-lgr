@@ -44,4 +44,5 @@ cargo new guessing_game
 cd guessing_game
 cargo add rand
 cargo build
+cargo add colored
 ```
